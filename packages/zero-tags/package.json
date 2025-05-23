@@ -1,0 +1,17 @@
+{
+  "name": "@zeroopensource/zero-tags",
+  "version": "0.0.0",
+  "type": "module",
+  "main": "./dist/zero-tags.cjs",
+  "module": "./dist/zero-tags.js",
+  "types": "./dist/zero-tags.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "prepack": "cpx ../../README.md ./",
+    "lint": "cross-env TIMING=1 eslint \"**/*.ts*\"",
+    "build": "tsup"
+  },
+  "dependencies": {}
+}
