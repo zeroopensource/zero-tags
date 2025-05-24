@@ -1,0 +1,100 @@
+{
+  "social_media_hashtags": {
+    "general": [
+      "#love",
+      "#instagood",
+      "#photooftheday",
+      "#beautiful",
+      "#fashion",
+      "#happy",
+      "#cute",
+      "#followme",
+      "#like4like",
+      "#picoftheday"
+    ],
+    "technology": [
+      "#tech",
+      "#technology",
+      "#coding",
+      "#programming",
+      "#developers",
+      "#javascript",
+      "#python",
+      "#ai",
+      "#machinelearning",
+      "#blockchain"
+    ],
+    "business": [
+      "#entrepreneur",
+      "#business",
+      "#success",
+      "#motivation",
+      "#startup",
+      "#marketing",
+      "#digitalmarketing",
+      "#smallbusiness",
+      "#leadership",
+      "#innovation"
+    ],
+    "lifestyle": [
+      "#fitness",
+      "#health",
+      "#wellness",
+      "#mindfulness",
+      "#travel",
+      "#food",
+      "#foodie",
+      "#cooking",
+      "#homemade",
+      "#lifestyle"
+    ],
+    "entertainment": [
+      "#music",
+      "#movie",
+      "#gaming",
+      "#netflix",
+      "#art",
+      "#photography",
+      "#artist",
+      "#dance",
+      "#film",
+      "#tv"
+    ],
+    "sports": [
+      "#sports",
+      "#football",
+      "#soccer",
+      "#basketball",
+      "#nba",
+      "#baseball",
+      "#nfl",
+      "#fitness",
+      "#gym",
+      "#workout"
+    ],
+    "events": [
+      "#blackfriday",
+      "#christmas",
+      "#newyear",
+      "#summer",
+      "#halloween",
+      "#festival",
+      "#concert",
+      "#celebration",
+      "#party",
+      "#wedding"
+    ],
+    "causes": [
+      "#climatechange",
+      "#sustainability",
+      "#environment",
+      "#savetheplanet",
+      "#mentalheath",
+      "#education",
+      "#equality",
+      "#humanrights",
+      "#support",
+      "#awareness"
+    ]
+  }
+}
