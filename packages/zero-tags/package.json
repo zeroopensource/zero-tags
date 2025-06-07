@@ -13,5 +13,7 @@
     "lint": "cross-env TIMING=1 eslint \"**/*.ts*\"",
     "build": "tsup"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@zeroopensource/zero-cli": "latest"
+  }
 }
